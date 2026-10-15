@@ -1,0 +1,285 @@
+{
+  "college_info": {
+    "name": "Greenfield Institute of Technology & Science",
+    "short_name": "GITS",
+    "established": 1998,
+    "location": "Greenfield Campus, Tech City, Karnataka - 560001",
+    "phone": "+91-80-2345-6789",
+    "email": "admissions@gits.edu.in",
+    "website": "www.gits.edu.in",
+    "accreditation": "NAAC A+ Grade | NBA Accredited | AICTE Approved",
+    "ranking": "Top 50 Engineering Colleges in India (NIRF 2024)"
+  },
+  "faqs": [
+    {
+      "id": 1,
+      "category": "admissions",
+      "question": "What is the admission process for undergraduate programs?",
+      "answer": "Admissions to B.Tech programs are based on JEE Main scores. Students must: 1) Qualify JEE Main with minimum 75 percentile, 2) Apply online through our portal at www.gits.edu.in, 3) Participate in JOSAA/State counseling rounds, 4) Complete document verification and pay fees. Direct admission (NRI/Management quota) is also available with merit-based selection."
+    },
+    {
+      "id": 2,
+      "category": "admissions",
+      "question": "What are the eligibility criteria for B.Tech admission?",
+      "answer": "Eligibility for B.Tech: 1) Passed 10+2 with Physics, Chemistry, and Mathematics, 2) Minimum 60% aggregate in PCM (55% for SC/ST), 3) Valid JEE Main score, 4) Age limit: 17-25 years as of October 1st of admission year. For lateral entry (B.Tech 2nd year): Diploma in relevant engineering with 60% marks."
+    },
+    {
+      "id": 3,
+      "category": "admissions",
+      "question": "When does the admission process start? What are the important dates?",
+      "answer": "Key admission dates: Application opens: March 15 | JEE Main exam: January & April sessions | Counseling: June-July | Classes begin: August 1. Visit our website for the complete academic calendar. Late applications may be considered for available seats."
+    },
+    {
+      "id": 4,
+      "category": "admissions",
+      "question": "How do I apply for admission online?",
+      "answer": "To apply online: 1) Visit www.gits.edu.in/admissions, 2) Register with your email and mobile number, 3) Fill the application form with academic details, 4) Upload required documents (marksheets, photos, ID proof), 5) Pay application fee of Rs.1,000 online, 6) Submit JEE Main scorecard. You'll receive confirmation on your registered email within 48 hours."
+    },
+    {
+      "id": 5,
+      "category": "admissions",
+      "question": "Is there a management quota? How does it work?",
+      "answer": "Yes, GITS has 15% Management Quota seats. Requirements: 1) 10+2 with PCM minimum 60%, 2) JEE Main score preferred but not mandatory, 3) Apply through college directly, 4) Selection via merit + interview, 5) Higher fee structure applies. Contact admissions office at +91-80-2345-6789 for details."
+    },
+    {
+      "id": 6,
+      "category": "courses",
+      "question": "What undergraduate courses are offered?",
+      "answer": "GITS offers the following B.Tech programs (4 years): 1) Computer Science & Engineering (CSE), 2) CSE with AI & Machine Learning, 3) CSE with Data Science, 4) Electronics & Communication Engineering (ECE), 5) Electrical Engineering (EE), 6) Mechanical Engineering (ME), 7) Civil Engineering (CE), 8) Information Technology (IT), 9) Aerospace Engineering. Each program has intake of 60-120 students."
+    },
+    {
+      "id": 7,
+      "category": "courses",
+      "question": "What postgraduate programs are available?",
+      "answer": "GITS offers M.Tech programs (2 years) in: 1) Computer Science, 2) VLSI Design, 3) Power Systems, 4) Structural Engineering, 5) Machine Design. Also: MBA (2 years) with specializations in Marketing, Finance, HR, and Operations. Ph.D programs in all engineering and management disciplines. Admission via GATE/MAT/CAT scores."
+    },
+    {
+      "id": 8,
+      "category": "courses",
+      "question": "Tell me about the Computer Science Engineering program",
+      "answer": "CSE Program Highlights: Duration: 4 years | Intake: 120 seats | Specialization tracks: AI/ML, Cybersecurity, Cloud Computing, Full-Stack Development. Curriculum includes: Data Structures, Algorithms, DBMS, OS, Computer Networks, Machine Learning, Deep Learning, Cloud Computing, DevOps. Industry-integrated curriculum updated yearly. 100% placement record since 2010."
+    },
+    {
+      "id": 9,
+      "category": "courses",
+      "question": "Are there any diploma or certificate courses?",
+      "answer": "Yes, GITS offers: Short-term Certificate Courses (3-6 months): Python Programming, Web Development, Data Analytics, IoT, Cybersecurity, Cloud Computing (AWS/Azure). Professional Diplomas (1 year): Product Management, Data Science, AI & ML. All courses include industry certifications. Available for both students and working professionals."
+    },
+    {
+      "id": 10,
+      "category": "fees",
+      "question": "What is the fee structure for B.Tech programs?",
+      "answer": "B.Tech Annual Fee Structure: Tuition Fee: Rs.1,20,000/year | Development Fee: Rs.15,000/year | Lab & Library Fee: Rs.10,000/year | Exam Fee: Rs.5,000/year | Total per year: ~Rs.1,50,000. Total 4-year cost: ~Rs.6,00,000. Hostel (optional): Rs.80,000/year. Management quota: Rs.2,50,000/year. Fees may increase by 5-10% annually."
+    },
+    {
+      "id": 11,
+      "category": "fees",
+      "question": "What is the fee for MBA or M.Tech programs?",
+      "answer": "Postgraduate Fee Structure: M.Tech: Rs.90,000/year (2 years total: Rs.1,80,000) | MBA: Rs.1,50,000/year (2 years total: Rs.3,00,000). Fees include tuition, library, and lab charges. Hostel additional: Rs.85,000/year. Ph.D. stipend: Rs.15,000-25,000/month for funded scholars."
+    },
+    {
+      "id": 12,
+      "category": "fees",
+      "question": "What are the payment options for fees?",
+      "answer": "Fee Payment Options: 1) Online payment via Net Banking/UPI/Credit/Debit Card at student portal, 2) Demand Draft in favor of 'GITS', 3) EMI options available through partner banks (HDFC, SBI, Axis), 4) Education loan assistance provided, 5) Semester-wise payment option available. Late payment penalty: 2% per month after due date."
+    },
+    {
+      "id": 13,
+      "category": "scholarships",
+      "question": "What scholarships are available for students?",
+      "answer": "GITS Scholarship Programs: 1) Merit Scholarship: Top 5% JEE scorers get 50% tuition waiver, 2) SC/ST/OBC Scholarship: Government scholarships + college fee waiver, 3) Sports Excellence Award: Rs.50,000/year for national-level athletes, 4) Single Parent/Orphan Scholarship: Up to 75% fee waiver, 5) Sibling Discount: 10% for siblings already enrolled, 6) Alumni Children Discount: 15% discount."
+    },
+    {
+      "id": 14,
+      "category": "scholarships",
+      "question": "How do I apply for scholarships?",
+      "answer": "Scholarship Application Process: 1) Download scholarship form from www.gits.edu.in/scholarships, 2) Fill form with required details, 3) Attach documents: marksheets, income certificate, caste certificate (if applicable), 4) Submit to Scholarship Office by September 30, 5) Results announced by October 31. Government scholarships (NSP Portal): Apply at scholarships.gov.in. College scholarships are renewable annually based on academic performance."
+    },
+    {
+      "id": 15,
+      "category": "scholarships",
+      "question": "Is there any financial aid for economically weaker students?",
+      "answer": "Financial Aid for EWS Students: 1) EWS Scholarship: Students with family income < Rs.8 LPA get 30% fee waiver, 2) Free Laptop Scheme: Top 10 students from economically weak backgrounds get free laptops, 3) Work-Study Program: Part-time campus jobs (Rs.5,000-8,000/month), 4) Education Loan tie-ups: SBI, HDFC at 8.5% interest, 5) Zero-interest installment plan for first-generation graduates."
+    },
+    {
+      "id": 16,
+      "category": "placements",
+      "question": "What is the placement record of the college?",
+      "answer": "GITS Placement Statistics 2024: Overall placement rate: 96% | Average package: Rs.8.5 LPA | Highest package: Rs.45 LPA (CSE - Google) | Median package: Rs.7.2 LPA | Top recruiters: Google, Microsoft, Amazon, Infosys, TCS, Wipro, Accenture, Capgemini, Deloitte, Goldman Sachs | 500+ companies visited campus | International placements: 15 students to USA/UK/Germany."
+    },
+    {
+      "id": 17,
+      "category": "placements",
+      "question": "Which companies come for campus placements?",
+      "answer": "Top Recruiters at GITS: Tech Giants: Google, Microsoft, Amazon, Apple, Meta | IT Services: TCS, Infosys, Wipro, HCL, Tech Mahindra | Product Companies: Flipkart, Swiggy, Zomato, BYJU's, PhonePe | Finance: Goldman Sachs, JP Morgan, Deloitte, KPMG | Core Engineering: Bosch, Siemens, L&T, ISRO (for select programs) | Startups: 50+ funded startups recruit annually."
+    },
+    {
+      "id": 18,
+      "category": "placements",
+      "question": "What training and placement support is provided?",
+      "answer": "GITS Placement Preparation: Year 1-2: Aptitude training, communication skills, personality development | Year 3: Technical skill workshops, domain certifications, hackathons | Year 4: Mock interviews, resume workshops, company-specific preparation | Year-round: LeetCode challenges, competitive programming, industry mentorship. Dedicated Training & Placement cell with 25+ staff. Pre-placement offers given to 30% students."
+    },
+    {
+      "id": 19,
+      "category": "placements",
+      "question": "What is the average salary package offered?",
+      "answer": "Salary Packages at GITS (2024): Average: Rs.8.5 LPA | Highest: Rs.45 LPA | CSE avg: Rs.12 LPA | ECE avg: Rs.7 LPA | ME avg: Rs.5.5 LPA | MBA avg: Rs.9 LPA | Top 10% students: Average Rs.18+ LPA | International offers: $80,000-$120,000/year. Package data verified by NIRF submission."
+    },
+    {
+      "id": 20,
+      "category": "hostel",
+      "question": "Are hostel facilities available for students?",
+      "answer": "GITS Campus Hostels: 4 hostels (2 boys, 2 girls) with total capacity of 2,400 students | AC and Non-AC options | Room types: Single occupancy (Rs.1,20,000/yr), Double (Rs.90,000/yr), Triple (Rs.75,000/yr). Includes: 3 meals/day, WiFi (100 Mbps), Laundry, 24/7 security, CCTV, Biometric entry. Warden and medical staff on campus."
+    },
+    {
+      "id": 21,
+      "category": "hostel",
+      "question": "What facilities are available in the hostel?",
+      "answer": "Hostel Amenities: Accommodation: Furnished rooms with study table, wardrobe, bed | Food: Multicuisine dining with North/South Indian, Continental options | Sports: Indoor games room, TV lounge, gym | Connectivity: 100 Mbps WiFi, 24/7 power backup | Safety: CCTV surveillance, biometric access, security guards | Health: On-campus medical center, ambulance | Recreation: Cultural rooms, reading room."
+    },
+    {
+      "id": 22,
+      "category": "hostel",
+      "question": "Is hostel compulsory? Can I stay outside campus?",
+      "answer": "Hostel is NOT compulsory at GITS. Options: 1) On-campus hostel (recommended for freshers), 2) Off-campus paying guest accommodation (Rs.8,000-15,000/month), 3) Rented apartments near campus. For off-campus accommodation: Students must register with the college, provide address proof, and parents must give consent. Day scholars must follow college timings."
+    },
+    {
+      "id": 23,
+      "category": "hostel",
+      "question": "What is the food quality like in the hostel mess?",
+      "answer": "GITS Hostel Mess: Professional catering company manages the mess | Menu changes daily with breakfast, lunch, evening snacks, and dinner | Special menus on festivals and weekends | Vegetarian and non-vegetarian options | Student Food Committee monitors quality monthly | Canteen and food court available 7 AM - 11 PM with 15+ food stalls including popular brands."
+    },
+    {
+      "id": 24,
+      "category": "infrastructure",
+      "question": "What are the campus facilities and infrastructure?",
+      "answer": "GITS Campus (150 acres): Academic: 40 well-equipped labs, smart classrooms, seminar halls, 2 auditoriums (1,000 seat each) | Library: Central library with 1 lakh books, 500+ journals, 24/7 digital library | Sports: Cricket ground, football field, basketball/volleyball courts, swimming pool, indoor sports complex | Medical: 24/7 health center with doctor on duty | Transport: College buses connecting major city areas."
+    },
+    {
+      "id": 25,
+      "category": "infrastructure",
+      "question": "What kind of labs and equipment are available?",
+      "answer": "GITS Laboratories: CSE/IT: AI Lab, Robotics Lab, Cybersecurity Lab, Cloud Computing Center, IoT Lab | ECE: VLSI Lab, Embedded Systems Lab, Communication Lab, Signal Processing Lab | ME: CAD/CAM Lab, Thermal Lab, Fluid Mechanics Lab, 3D Printing Lab | CE: Soil Testing Lab, Structural Lab, GIS Lab | Research: 5 Center of Excellence labs funded by industry partners."
+    },
+    {
+      "id": 26,
+      "category": "faculty",
+      "question": "How qualified are the faculty members?",
+      "answer": "GITS Faculty Profile: Total faculty: 280+ | Ph.D holders: 70% | Industry experience: 40% faculty have 5+ years industry experience | IIT/NIT alumni: 60% faculty from premier institutes | International exposure: 30 faculty with foreign university collaboration | Publications: 500+ research papers in last 3 years | Student-to-faculty ratio: 15:1."
+    },
+    {
+      "id": 27,
+      "category": "faculty",
+      "question": "Are there any guest lectures or industry expert sessions?",
+      "answer": "Industry Interaction at GITS: Monthly guest lectures by industry leaders | Annual Tech Summit with 50+ speakers | CEO/CTO talks series (quarterly) | Industry mentorship program: Students paired with senior professionals | MoU with 100+ companies for internships and projects | Joint research projects with companies like Bosch, Microsoft, and ISRO."
+    },
+    {
+      "id": 28,
+      "category": "activities",
+      "question": "What extracurricular activities are available?",
+      "answer": "Student Life at GITS: Technical Clubs: Coding Club, Robotics Club, IEEE Student Chapter, E-Cell (Entrepreneurship) | Cultural: Music, Dance, Drama, Photography, Literary clubs | Sports: 20+ sports teams, inter-college tournaments, annual sports meet | Fests: TECHVITA (technical fest), CULTURAMA (cultural fest), STARTUP SUMMIT | NSS, NCC, Rotaract Club for social activities."
+    },
+    {
+      "id": 29,
+      "category": "activities",
+      "question": "Are there any internship opportunities?",
+      "answer": "Internship Program at GITS: 6-month mandatory internship in 7th semester | Summer internships supported from 2nd year | 200+ partner companies for internships | Internship stipends: Rs.10,000-50,000/month | Notable internship partners: Google, Amazon, Infosys, DRDO, ISRO | International internships: Germany, USA, Singapore (scholarship available) | 40% internships convert to full-time offers."
+    },
+    {
+      "id": 30,
+      "category": "research",
+      "question": "What research opportunities are available for students?",
+      "answer": "Research at GITS: Undergraduate Research Program: Students can join faculty research from 3rd year | Funded projects: Rs.15 crore+ active research grants | Centers of Excellence: AI & ML, IoT, Green Energy, Smart Cities, Biomedical Engineering | Publications: Students co-authored 200+ papers | Research fellowships: INSPIRE, DST-funded | Startup incubator with Rs.50 lakh seed funding support."
+    },
+    {
+      "id": 31,
+      "category": "transport",
+      "question": "Is there transportation facility from the city?",
+      "answer": "GITS Transport Facility: 25 college buses covering 50+ routes across the city | Timings: 6:30 AM to campus, return by 6:30 PM | Bus pass: Rs.15,000/semester | AC buses on select routes | GPS tracking on all buses | App-based route information available | Nearest metro station: 2 km from campus | Cab/auto services available from college gate."
+    },
+    {
+      "id": 32,
+      "category": "transport",
+      "question": "Where is the college located? How to reach?",
+      "answer": "GITS Location: Address: Greenfield Campus, Tech City, Karnataka - 560001 | By Air: 35 km from Kempegowda International Airport | By Train: 15 km from City Railway Station | By Metro: 2 km from Tech Park Metro Station | By Bus: BMTC Routes 500E, 502D stop at college gate | Google Maps: Search 'GITS Greenfield Campus'. College provides pickup from railway station for freshers during admission."
+    },
+    {
+      "id": 33,
+      "category": "admissions",
+      "question": "What documents are required for admission?",
+      "answer": "Documents Required for Admission: 1) 10th marksheet & certificate, 2) 12th marksheet & certificate, 3) JEE Main scorecard, 4) Passport-size photographs (10 copies), 5) Aadhar Card, 6) Category certificate (SC/ST/OBC if applicable), 7) Income certificate (for scholarship), 8) Migration certificate (from previous school), 9) Medical fitness certificate, 10) Allotment letter (from counseling). Originals required for verification, self-attested copies for submission."
+    },
+    {
+      "id": 34,
+      "category": "admissions",
+      "question": "Is there a lateral entry admission for diploma holders?",
+      "answer": "Lateral Entry (LE) Admission: Eligibility: Diploma in Engineering (3 years) with minimum 60% marks | Entry: Direct admission to 2nd year B.Tech | Intake: 10% of total seats | Admission via: State Lateral Entry Test (SLET) + college counseling | Programs available: CSE, ECE, ME, CE, EE | No JEE required for lateral entry. Apply separately through college website."
+    },
+    {
+      "id": 35,
+      "category": "fees",
+      "question": "What is the application fee? Is it refundable?",
+      "answer": "Application Fee: Rs.1,000 (non-refundable) | Admission Confirmation Fee: Rs.10,000 (adjustable against tuition fees) | Seat booking fee: Rs.25,000 (refundable if seat cancelled within 15 days of allotment). Refund Policy: If you withdraw before classes begin: 75% of tuition refunded. After 1 month: No refund. Medical emergency cases considered separately."
+    },
+    {
+      "id": 36,
+      "category": "courses",
+      "question": "What is the duration of B.Tech program?",
+      "answer": "B.Tech Duration: Regular: 4 years (8 semesters) | Lateral Entry: 3 years (6 semesters) | Academic Year: July/August to May/June | Semester system with exams every 6 months | Minimum duration cannot be reduced | Maximum duration: 7 years (for regular students). Course completion requires: 160 credits including theory, practicals, project, and internship."
+    },
+    {
+      "id": 37,
+      "category": "general",
+      "question": "What is the ranking of this college?",
+      "answer": "GITS Rankings & Recognition: NIRF 2024: Rank 47 among Engineering Colleges in India | QS India Rankings: Top 100 | Times Engineering Survey: Top 50 | Outlook India: Rank 35 in South India | NAAC Accreditation: A+ Grade (Highest) | NBA Accreditation: All programs | AICTE Approved. Our CSE department ranked #28 nationally by India Today."
+    },
+    {
+      "id": 38,
+      "category": "general",
+      "question": "Tell me about the college history and overview",
+      "answer": "About GITS: Established in 1998, Greenfield Institute of Technology & Science is a premier engineering institution in Karnataka. Key milestones: 1998 - Founded with 3 departments, 2005 - NAAC A Grade, 2010 - NBA Accreditation, 2015 - NAAC A+ upgrade, 2018 - 20th Anniversary with new research centers, 2024 - 25+ years of excellence. With 10,000+ students and 50,000+ alumni worldwide, GITS is known for academic excellence and industry connections."
+    },
+    {
+      "id": 39,
+      "category": "general",
+      "question": "What is the contact information for the college?",
+      "answer": "GITS Contact Information: Admissions Office: +91-80-2345-6789 | General Enquiry: +91-80-2345-6780 | Email: admissions@gits.edu.in | Principal Office: principal@gits.edu.in | Hostel Office: hostel@gits.edu.in | Placement Cell: placement@gits.edu.in | Website: www.gits.edu.in | Office Hours: Monday-Saturday, 9 AM - 5 PM. WhatsApp Helpline: +91-98765-43210 (9 AM - 9 PM)."
+    },
+    {
+      "id": 40,
+      "category": "general",
+      "question": "Is GITS affiliated to which university?",
+      "answer": "GITS Affiliation: Primary: Visvesvaraya Technological University (VTU), Belagavi | AICTE Approved | UGC Recognized | Autonomous Institution since 2015 (can design own curriculum) | Industry-aligned curriculum updated every 2 years | Degrees awarded by VTU (nationally recognized) | Deemed University status applied and under consideration."
+    },
+    {
+      "id": 41,
+      "category": "admissions",
+      "question": "Can NRI or foreign students apply?",
+      "answer": "NRI/Foreign Student Admissions: NRI Quota: 5% seats reserved | Eligibility: Equivalent of 10+2 with PCM | No JEE required | Admission: Merit-based on 10+2 marks | Fee: USD 3,500/year | Foreign nationals: Apply through Indian Embassy or directly | Required: Valid passport, visa, equivalent certificate, English proficiency. Contact: nri@gits.edu.in"
+    },
+    {
+      "id": 42,
+      "category": "scholarships",
+      "question": "Are there any government scholarships available?",
+      "answer": "Government Scholarships at GITS: Central Schemes: 1) Post-Matric Scholarship (SC/ST) via NSP portal, 2) PM Scholarship for Defence Personnel children, 3) INSPIRE Scholarship for science students, 4) Minority Scholarship. State Schemes: 1) Karnataka Rajyotsava Scholarship, 2) Vidyasiri for EWS, 3) Suvarna Karnataka for merit students. GITS has dedicated scholarship cell to assist with all government scholarship applications."
+    },
+    {
+      "id": 43,
+      "category": "placements",
+      "question": "What is the placement percentage of CSE students?",
+      "answer": "CSE Placement Statistics 2024: Placement rate: 99% | Average package: Rs.12 LPA | Highest: Rs.45 LPA (Google) | Top companies: Google, Microsoft, Amazon, Flipkart, Goldman Sachs | 150+ companies recruited CSE students | Pre-placement offers: 45% students | Dream company offers (>Rs.20 LPA): 35 students. CSE is consistently the best-placed department at GITS."
+    },
+    {
+      "id": 44,
+      "category": "activities",
+      "question": "What sports facilities are available?",
+      "answer": "GITS Sports Facilities: Outdoor: Cricket ground (international standard), Football field, Athletic track, Tennis courts (4), Basketball courts (3), Volleyball courts | Indoor: Badminton courts (6), Table Tennis, Chess, Carrom, Billiards | Aquatic: Olympic-size swimming pool | Fitness: Modern gymnasium with certified trainers | Annual Sports Day, inter-department tournaments, university-level competitions. 20+ students played at national level in 2024."
+    },
+    {
+      "id": 45,
+      "category": "infrastructure",
+      "question": "What is the library facility like?",
+      "answer": "GITS Central Library: Collection: 1,00,000+ books, 500+ journals, 50,000+ e-books | Digital: Access to IEEE Xplore, ScienceDirect, Springer, JSTOR, NPTEL | Hours: 8 AM - 10 PM (weekdays), 9 AM - 6 PM (weekends) | Facilities: Reading hall (500 seats), digital library, discussion rooms, printing/scanning | Study resources: PYQ papers, project reports, thesis database | RFID-based book tracking, self-checkout available."
+    }
+  ]
+}
